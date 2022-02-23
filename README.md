@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **stm-seek/stm-seek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Howdy I'm Satsawat Tekwong, and you may call me Gun. Gun isn't a gun; it's simply a nickname for me.
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
