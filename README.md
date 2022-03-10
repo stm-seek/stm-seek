@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web devoloper
 - 🌱 I’m currently studing at suandusit university
-- 💬 Ask me about?
+- 💬 Ask me about front end and  back end developer
 
 
